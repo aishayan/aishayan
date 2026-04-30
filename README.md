@@ -66,5 +66,6 @@ Exploring an intelligent product in the beauty industry and currently looking fo
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aishayan/aishayan/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/aishayan/aishayan/output/snake.svg"/>
 </p>
+
