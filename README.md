@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=3BA4F7&center=true&vCenter=true&width=700&lines=Hi+I'm+Shayan+Khaleghi;AI+Product+Manager;Building+Intelligent+Products;AI+%7C+Product+Strategy+%7C+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=650&size=32&duration=3000&pause=800&color=DBFFF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Shayan+Khaleghi;AI+Product+Manager;Building+Intelligent+Products;AI+%7C+Product+Strategy+%7C+Innovation" />
 </p>
 
 ## 🚀 About Me
