@@ -7,8 +7,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BA4F7,100:6A5ACD&height=120&section=header"/>
-
----
 ```bash
 > whoami
 Shayan Khaleghi
@@ -26,10 +24,22 @@ I’m Shayan Khaleghi, an AI Product Manager focused on building intelligent pro
 
 My background in Industrial Engineering & Project Control helps me bridge technology, product insight, and real-world outcomes.
 
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
+
+</p>
+
 💡 AI Quote
 <p align=“center”>
 
 <img src=“https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight”/>
+
+</p>
+
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
 
 </p>
 
@@ -39,10 +49,22 @@ Product Strategy & Roadmapping
 Industrial Engineering & Project Control
 AI-driven Product Design
 Data-informed Product Decisions
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
+
+</p>
+
 ⚙️ Tech & Tools
 <p align=“center”>
 
 <img src=“https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,figma,notion&perline=7” />
+
+</p>
+
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
 
 </p>
 
@@ -59,6 +81,12 @@ A comprehensive guide for building intelligent chatbots.
 
 An ongoing exploration in AI-driven beauty products – looking for creative collaborators!
 
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
+
+</p>
+
 📊 GitHub Stats
 <p align=“center”>
 
@@ -68,10 +96,22 @@ An ongoing exploration in AI-driven beauty products – looking for creative col
 
 </p>
 
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
+
+</p>
+
 📈 Contribution Graph
 <p align=“center”>
 
 <img src=“https://github-readme-activity-graph.vercel.app/graph?username=aishayan&theme=tokyo-night&hide_border=true”/>
+
+</p>
+
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
 
 </p>
 
@@ -92,14 +132,16 @@ An ongoing exploration in AI-driven beauty products – looking for creative col
 
 </p>
 
+<p align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2”/>
+
+</p>
+
 🐍 Contribution Snake
 <p align=“center”>
 
-<img src=“https://raw.githubusercontent.com/aishayan/aishayan/output/snake.svg” />
-
-<br/>
-
-<img src=“https://raw.githubusercontent.com/aishayan/aishayan/output/snake-dark.svg” />
+<img src=“https://raw.githubusercontent.com/aishayan/aishayan/output/snake.svg”/>
 
 </p>
 
