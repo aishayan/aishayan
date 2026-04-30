@@ -6,22 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=3BA4F7&center=true&vCenter=true&width=700&lines=Hi+I'm+Shayan+Khaleghi;AI+Product+Manager;Building+Intelligent+Products;AI+%7C+Product+Strategy+%7C+Innovation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BA4F7,100:6A5ACD&height=120&section=header"/>
-
-```bash
-> whoami
-Shayan Khaleghi
-
-> role
-AI Product Manager
-
-> focus
-Building intelligent products
-
-> interests
-AI • Product Strategy • Innovation
-```
-
 ## 🚀 About Me
 
 I’m **Shayan Khaleghi**, an **AI Product Manager** focused on building intelligent products that connect **data, strategy, and innovation**.
@@ -127,4 +111,3 @@ An ongoing exploration in AI-driven beauty products – looking for creative col
 <img src="https://raw.githubusercontent.com/aishayan/aishayan/output/snake.svg"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BA4F7,100:6A5ACD&height=120&section=footer"/>
